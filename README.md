@@ -3,6 +3,8 @@
 ## 📌 **Project Overview**
 ### **This project focuses on analyzing Uber trip data to uncover peak demand patterns and implementing a Random Forest Regressor model. The goal is to accurately predict future trip volumes to assist in better vehicle allocation and resource management.**
 
+## 📊 Dashboard Preview
+![Uber Dashboard Demo](Uber%20demo.gif)
 ---
 
 ## 🛠️ **Tech Stack**
@@ -17,7 +19,7 @@
 
 ### 📈 **Model Performance**
 * **Algorithm:** Random Forest Regressor
-* **Accuracy (R² Score):** **0.9872081897543957**
+* **Accuracy (R² Score):** **0.98**
 * **Predictive Power:** The model successfully captures daily fluctuations and demand spikes.
 
 ### 💡 **Business Insights**
