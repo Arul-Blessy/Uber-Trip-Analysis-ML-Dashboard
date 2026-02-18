@@ -52,3 +52,5 @@ Run the `notebook.ipynb` notebook in VS Code or Jupyter. Ensure you have the fol
 1. Open `Uber trip analysis dashboard.pbix` using **Power BI Desktop**.
 2. If the data doesn't load, go to **Transform Data** and update the source path to point to `Uber_Analysis_Final.csv` on your computer.
 
+---
+*Developed for the Unified Mentor Internship Program.*
