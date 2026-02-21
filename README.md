@@ -4,7 +4,7 @@
 ### **This project focuses on analyzing Uber trip data to uncover peak demand patterns and implementing a Random Forest Regressor model. The goal is to accurately predict future trip volumes to assist in better vehicle allocation and resource management.**
 
 ## 📊 Dashboard Preview
-![Uber Dashboard Demo](Uber%20demo.gif)
+![uber analysis gif](https://github.com/user-attachments/assets/232a87a5-6c64-4b4c-8e8c-b66f780d9739)
 ---
 
 ## 🛠️ **Tech Stack**
