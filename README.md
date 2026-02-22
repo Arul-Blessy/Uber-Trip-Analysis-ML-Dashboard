@@ -36,8 +36,7 @@
 | File Name | Description |
 | :--- | :--- |
 | **`notebook.ipynb`** | Full Python source code (Cleaning, EDA, and ML Model). |
-| **`Uber trip analysis dashboard.pbix`** | Interactive Power BI Dashboard file. |
-| **`Uber.csv`** | The raw input dataset. |
+| **`Uber trip analysis.pbix`** | Interactive Power BI Dashboard file. |
 | **`Uber_Analysis_Final.csv`** | Processed data with ML predictions for Power BI. |
 
 ---
@@ -49,7 +48,7 @@ Run the `notebook.ipynb` notebook in VS Code or Jupyter. Ensure you have the fol
 `pip install pandas scikit-learn matplotlib seaborn`
 
 ### **2. Power BI Dashboard**
-1. Open `Uber trip analysis dashboard.pbix` using **Power BI Desktop**.
+1. Open `Uber trip analysis.pbix` using **Power BI Desktop**.
 2. If the data doesn't load, go to **Transform Data** and update the source path to point to `Uber_Analysis_Final.csv` on your computer.
 
 ---
